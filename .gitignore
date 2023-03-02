@@ -1,0 +1,6 @@
+*.ipynb
+whatever*
+whiteboard.py
+test.py
+__pycache__
+.vscode
